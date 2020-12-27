@@ -2781,7 +2781,7 @@ button:disabled,
 }
 
 #navPanel a:not(.close) {
-    border-top: solid 1px #8dcca9;
+    border-top: solid 1px #000000;
     color: #daefe3;
     font-weight: 600;
     display: block;
