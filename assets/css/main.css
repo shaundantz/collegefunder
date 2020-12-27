@@ -2,15 +2,6 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600";
 
-/*
-	Projection by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
-
-/* Reset */
-
 html,
 body,
 div,
@@ -1912,7 +1903,7 @@ textarea {
     background: #EBAC4D;
     border-radius: 10px;
     border: none;
-    border: solid 2px #000000;
+    border: solid 2px #ffffff;
     color: #fff;
     display: block;
     outline: 0;
@@ -2593,7 +2584,7 @@ input[type="reset"].special:active,
 input[type="button"].special:active,
 button.special:active,
 .button.special:active {
-    background-color: #b2b85a;
+    background-color: #ebac4dc9;
 }
 
 input[type="submit"].disabled,
