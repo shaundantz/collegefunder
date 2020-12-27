@@ -2106,7 +2106,7 @@ input[type="radio"]+label:before {
 }
 
 .box.person {
-    border: solid 1px #8dcca9;
+    border: solid 1px #000000;
     padding: 3em 1.5em;
 }
 
