@@ -2543,7 +2543,7 @@ input[type="reset"].alt:hover,
 input[type="button"].alt:hover,
 button.alt:hover,
 .button.alt:hover {
-    background-color: #c8c77e;
+    background-color: #ebac4dc9;
 }
 
 input[type="submit"].alt:active,
@@ -2551,7 +2551,7 @@ input[type="reset"].alt:active,
 input[type="button"].alt:active,
 button.alt:active,
 .button.alt:active {
-    background-color: #c8c77e;
+    background-color: #ebac4dc9;
 }
 
 input[type="submit"].alt.icon:before,
@@ -2576,7 +2576,7 @@ input[type="reset"].special:hover,
 input[type="button"].special:hover,
 button.special:hover,
 .button.special:hover {
-    background-color: #c8c77e;
+    background-color: #ebac4dc9;
 }
 
 input[type="submit"].special:active,
